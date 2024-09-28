@@ -1,0 +1,23 @@
+{
+  "name": "typescript_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddjustin/typescript_study.git"
+  },
+  "author": "justin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddjustin/typescript_study/issues"
+  },
+  "homepage": "https://github.com/ddjustin/typescript_study#readme",
+  "dependencies": {
+    "@types/node": "^20.16.10"
+  }
+}
